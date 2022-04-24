@@ -12,7 +12,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I am currently working as an software engineer intern in a startup
+- 🔭 I am currently working as an Software Engineer Intern in a startup.
 - 🌱 Exploring DevOps and Security.
 - ⚡ In my free time I solve challenges and boxes on TryHackMe and HackTheBox.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-NikhilChacko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-chacko-2b811b1a6/)
